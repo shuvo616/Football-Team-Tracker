@@ -28,7 +28,7 @@ const TeamDetails = () => {
                 <DetailsInfo teamInfo={teamInfo}></DetailsInfo>
             </div>
             <TeamDescription teamInfo={teamInfo}></TeamDescription>
-            <SocialInfo></SocialInfo>
+            <SocialInfo teamInfo={teamInfo}></SocialInfo>
 
         </div>
     );
