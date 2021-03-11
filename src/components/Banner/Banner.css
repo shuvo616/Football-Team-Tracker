@@ -1,0 +1,10 @@
+
+.overlay{
+    height: 250px;
+    background-color: rgba(124, 64, 72, 0.3);
+}
+
+.caption{
+    color: #fff;
+    padding-top: 54px;
+}
